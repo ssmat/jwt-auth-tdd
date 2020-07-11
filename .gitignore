@@ -1,2 +1,4 @@
 features
 node_modules
+.env
+.env.test
